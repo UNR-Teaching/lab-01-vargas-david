@@ -1,0 +1,5 @@
+Q3: When the command ls > newfile.txt was entered into the command prompt there was a new file added to the lab 01 directory. The greater than sign (>) is used for output redirection, resulting in it outputing another to something other than standard output. The ls command lists the files in the directory, and creates a new text file name "newfile" and places the new file in the list of the directory which came from the "ls" command. 
+
+Q5: When the command "git status" is entered to the terminal, the new text file named "newfile" will be committed from the working area to the staging area once the "git commit" command is called.
+
+Q6: When the command "git diff" is entered into the terminal, the command allows us to enter diff viewer, which diplays the changes made to each file  in the working area, after the last commit that took place. Denostrating all of my answers placed in the answers.txt and the new line "This is my file listing" in the newfile.txt text file. 
